@@ -1,0 +1,52 @@
+h1{
+	background: red;
+	color: yellow;
+}
+.block-text{
+	font-size:20px;
+}
+.block-text .doan1{
+	background: black;
+	color: white;
+}
+.block-text .doan2{
+	background: green;
+	color: pink;
+}
+.block-text .doan3{
+	background: red;
+	color: black;
+}
+.block-text .doan3{
+	background: brown;
+	color: white;
+}
+.block-text .doan4{
+	background: black;
+	color: white;
+}
+.doan .doan1{
+	background: pink;
+	color: blue;
+}
+.doan .doan2{
+	background: pink;
+	color: blue;
+}
+.doan .doan3{
+	background: pink;
+	color: blue;
+}
+.doan .doan4{
+	background: pink;
+	color: blue;
+}
+.doan .doan5{
+	background: pink;
+	color: blue;
+}
+.heat-shape{
+	background: pink;
+	color:red;
+}
+
