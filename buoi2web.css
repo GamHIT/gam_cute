@@ -1,0 +1,70 @@
+.khoi1{
+	background-color: #2e86de;
+	display: flex;
+	justify-content: space-around;
+	height: 40px;
+	line-height: 40px;
+}
+a{
+		color: white;
+		text-decoration: none;
+}
+.khoi2{
+	text-align: center;
+
+}
+.avatar{
+	border-radius: 60%;
+	height: 300px;
+	width: 250px;
+
+}
+hr{
+	width: 400px;
+}
+hr{
+	width: 600px;
+}
+.khoi3{
+	text-align: center; 
+}
+h1{
+	color: blue;
+}
+.anh{
+	height: 100%;
+	width: 100%;
+
+	
+}
+
+hr{
+	width: 600px;
+}
+.khoi4{
+	text-align: center;
+	
+}
+hr{
+	width: 700px;
+}
+
+.khoi5{
+	text-align: center;
+
+}
+
+.khoi6{
+	text-align: center;
+	
+}
+h1{
+		color: red;
+    }
+
+.cuoi{
+	background: black;
+	color: white;
+}
+
+
